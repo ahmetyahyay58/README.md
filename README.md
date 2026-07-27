@@ -1,45 +1,61 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+# Hi there, I'm Ahmet! 👋
 
-<br />
+🎓 **Computer Engineering Student** | 🚀 **Aspiring Data Engineer**  
+Learning step-by-step to build reliable data pipelines, exploring mobile dev, and gazing at the stars.
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+---
 
-**About me**
+### 🌌 About Me
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+* 🎓 **Education:** 3rd Year Computer Engineering Student
+* 🎯 **Current Goal:** Learning and practicing End-to-End Data Engineering fundamentals
+* 🌌 **Passions:** Astronomy & Deep Space, Music Production 🎹, and Visual Arts
+* 💬 **Always open to learn about:** Python, SQL, Flutter, Docker, and Data Architectures
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+---
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+### 🛠️ Tech Stack & Tools I'm Working With
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+#### **Data & Backend (Learning & Practicing)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+#### **Mobile & Tools**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 🚀 Student Projects & Practice
 
-#### Top Repositories
+* 📊 **Data Engineering Practice:** Building a simple end-to-end containerized pipeline using Docker, PostgreSQL, dbt, and Metabase to practice data flow.
+* 📱 **Mobile App Project:** Developing a Flutter-based mobile appointment app to improve my frontend skills.
+* 🎵 **Hobby:** Producing beats using FL Studio & Arturia MiniLab 3 in my free time.
 
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+### 📈 GitHub Stats
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetyahyay58&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmet's GitHub Stats" />
+</p>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyahyay58&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ahmet-yahya-yilmaz-1a2443293)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahmetyahyay@gmail.com)
+
+---
+
+> *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
