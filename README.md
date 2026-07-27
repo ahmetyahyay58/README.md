@@ -41,11 +41,13 @@ Learning step-by-step to build reliable data pipelines, exploring mobile dev, an
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetyahyay58&theme=tokyonight&hide_border=true" alt="Ahmet's GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmetyahyay58&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmet's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetyahyay58&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Connect with Me
